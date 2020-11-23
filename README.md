@@ -1,5 +1,5 @@
 # VISÃO COMPUTACIONAL EM PYTHON - FERNANDO FELTRIN
-Disponível em: https://www.amazon.com.br/dp/B08NTW8TNV
+# Disponível em: https://www.amazon.com.br/dp/B08NTW8TNV
 
 
 # Livro Python do ZERO à Programação Orientada a Objetos - https://www.amazon.com.br/dp/B07P2VJVW5
