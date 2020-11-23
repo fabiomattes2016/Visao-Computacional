@@ -1,4 +1,4 @@
-Repositório com os exemplos usados no livro VISÃO COMPUTACIONAL EM PYTHON - FERNANDO FELTRIN
+VISÃO COMPUTACIONAL EM PYTHON - FERNANDO FELTRIN
 Disponível em: https://www.amazon.com.br/dp/B08NTW8TNV
 
 
