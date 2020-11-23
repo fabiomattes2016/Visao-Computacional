@@ -16,6 +16,22 @@ imagem_escalonada = cv2.resize(imagem,
 cv2_imshow(imagem4)
 cv2_imshow(imagem_escalonada)
 
+linhas, colunas = imagem_escalonada.shape
+
+print(linhas)
+print(colunas)
+
+largura = imagem.shape[1] 
+altura = imagem.shape[0] 
+proporcao = float(altura/largura) 
+
+largura_nova = 200
+altura_nova = int(largura_nova*proporcao) 
+
+fig = plt.figure(figsize=(8,5))
+plt.imshow(imagem,
+           cmap=plt.cm.gray)
+
 # Livro Python do ZERO à Programação Orientada a Objetos - https://www.amazon.com.br/dp/B07P2VJVW5
 # Livro Programação Orientada a Objetos com Python - https://www.amazon.com.br/dp/B083ZYRY9C
 # Livro Tópicos Avançados em Python - https://www.amazon.com.br/dp/B08FBKBC9H
